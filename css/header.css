@@ -1,27 +1,25 @@
 #logo{
-    background: red;
+    background: initial;
     text-align: initial;
     width: initial;
 }
 
 a.navbar-brand{
     width: initial;
-    background: pink;
+    background: initial;
 }
 .navbar-header{
     width: initial;
 }
 
-@media screen and (max-width: 1268px) {
+@media screen and (max-width: 1275px)and (min-width: 768px) {
     a.navbar-brand{
         width: 100%;
-        background: blue;
     }
     .navbar-header{
         width: 100%;
     }
     #logo{
-        background: brown;
         text-align: center;
         width: 100%;
     }
@@ -29,14 +27,14 @@ a.navbar-brand{
 
 
 
-@media screen and (max-width: 768) {
+@media screen and (max-width: 768px) {
     a.navbar-brand{
-        width: 100%;
-        align: center;
+        width: 50%;
     }
-
+    .navbar-header{
+        width: 100%;
+    }
     #logo{
-        background: yellow;
         text-align: left;
         width: 100%;
     }
