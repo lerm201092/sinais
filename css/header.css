@@ -1,0 +1,43 @@
+#logo{
+    background: red;
+    text-align: initial;
+    width: initial;
+}
+
+a.navbar-brand{
+    width: initial;
+    background: pink;
+}
+.navbar-header{
+    width: initial;
+}
+
+@media screen and (max-width: 1268px) {
+    a.navbar-brand{
+        width: 100%;
+        background: blue;
+    }
+    .navbar-header{
+        width: 100%;
+    }
+    #logo{
+        background: brown;
+        text-align: center;
+        width: 100%;
+    }
+}
+
+
+
+@media screen and (max-width: 768) {
+    a.navbar-brand{
+        width: 100%;
+        align: center;
+    }
+
+    #logo{
+        background: yellow;
+        text-align: left;
+        width: 100%;
+    }
+}

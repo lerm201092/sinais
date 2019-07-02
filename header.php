@@ -20,6 +20,9 @@
 <link rel="stylesheet" href="css/responsive.css">
 <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,400,600,700">
 
+<!-- Estilo propio -->
+<link rel="stylesheet" href="css/header.css">
+
 <!-- Javascripts --> 
 <script type="text/javascript" src="js/jquery-1.11.0.min.js"></script> 
 <script type="text/javascript" src="js/bootstrap.min.js"></script> 
@@ -44,6 +47,10 @@
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
     <![endif]-->
+
+    <style>
+
+    </style>
 </head>
 
 <body>
@@ -84,12 +91,12 @@
 <header>
   <!-- Navigation -->
   <div class="navbar yamm navbar-default" id="sticky">
-    <div class="container">
+    <div class="container" style="width:100%">
       <div class="navbar-header">
         <button type="button" data-toggle="collapse" data-target="#navbar-collapse-grid" class="navbar-toggle"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
         <a href="index.html" class="navbar-brand">         
         <!-- Logo -->
-        <div id="logo"> <img id="default-logo" src="images/logo.png" alt="Sinais" style="height:44px;"> <img id="retina-logo" src="images/logo.png" alt="Sinais" style="height:44px;"> </div>
+        <div id="logo" class="col-md-12"> <img id="default-logo" src="images/logo.png" alt="Sinais" style="height:44px;"> <img id="retina-logo" src="images/logo.png" alt="Sinais" style="height:44px;"> </div>
         </a> </div>
       <div id="navbar-collapse-grid" class="navbar-collapse collapse">
         <ul class="nav navbar-nav">
