@@ -39,7 +39,7 @@ include 'header.php';?>
       <h3>Unidad de cuidados intensivos neonatal (UCIN)</h3>
       <p>Contamos con la mejor unidad de cuidado crítico neonatal de la región con una capacidad de 23 incubadoras con la mejor tecnología y recurso humano calificado (Intensivista-neonatólogo 24h) para brindar una atención con excelencia a nuestros neonatos, quienes son nuestro mayor motivador para prestar un servicio con calidad y responsabilidad.</p>
 
-      <h3>Unidad de cuidado intensivos pediátrica UCIP</h3>
+      <h3>Unidad de cuidado intensivos pediátrica (UCIP)</h3>
       <p>La Unidad del Paciente Crítico Pediátrico de Clínica Sinais Vitais se encarga de tratar a aquellos niños y adolescentes que se encuentran graves y que requieren un cuidado especializado. En esta área se atienden aquellos pacientes en situación de riesgo vital. Ello constituye un respaldo permanente para cirugías, urgencia y hospitalización médica las 24 horas. Esta unidad garantiza la entrega de monitorización y soporte vital avanzado para el paciente. Cuenta con una infraestructura totalmente nueva y moderna, apoyados por tecnología de vanguardia y un grupo de profesionales multidisciplinarios de amplia experiencia y conocimientos.</p>
 
     </div>
