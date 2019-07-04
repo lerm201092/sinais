@@ -1,11 +1,11 @@
 <?php
-include 'header.php';?>
+include './include/header.php';?>
 
 <!-- Parallax Effect -->
 <script type="text/javascript">$(document).ready(function(){$('#parallax-pagetitle').parallax("50%", -0.55);});</script>
 
 <section class="parallax-effect">
-  <div id="parallax-pagetitle" style="background-image: url(./images/parallax/1900x911.gif);">
+  <div id="parallax-pagetitle" style="background-image: url(./src/images/parallax/1900x911.gif);">
     <div class="color-overlay"> 
       <!-- Page title -->
       <div class="container">
@@ -32,5 +32,5 @@ include 'header.php';?>
 </div>
 
 <?php
-include 'footer.php';
+include './include/footer.php';
 ?>

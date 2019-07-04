@@ -5,7 +5,7 @@
         <!-- Slide 1 -->
         <li data-transition="fade" data-slotamount="7" data-masterspeed="1500" > 
           <!-- Main Image --> 
-          <img src="images/slides/1700x449.gif" style="opacity:0;" alt="slidebg1"  data-bgfit="cover" data-bgposition="left bottom" data-bgrepeat="no-repeat"> 
+          <img src="./src/images/slides/1700x449.gif" style="opacity:0;" alt="slidebg1"  data-bgfit="cover" data-bgposition="left bottom" data-bgrepeat="no-repeat"> 
           <!-- Layers -->           
           <!-- Layer 1 -->
           <div class="caption sft revolution-starhotel bigtext"  
@@ -36,7 +36,7 @@
 		<!-- Slide 2 -->
         <li data-transition="boxfade" data-slotamount="7" data-masterspeed="1000" > 
           <!-- Main Image --> 
-          <img src="images/slides/1700x449.gif"  alt="darkblurbg"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat"> 
+          <img src="./src/images/slides/1700x449.gif"  alt="darkblurbg"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat"> 
           <!-- Layers -->           
           <!-- Layer 1 -->
           <div class="caption sft revolution-starhotel bigtext"  

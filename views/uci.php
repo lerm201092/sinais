@@ -1,5 +1,5 @@
 <?php
-include 'header.php';?>
+include './include/header.php';?>
 
 <!-- Parallax Effect -->
 <script type="text/javascript">$(document).ready(function(){$('#parallax-pagetitle').parallax("50%", -0.55);});</script>
@@ -47,5 +47,5 @@ include 'header.php';?>
 </div>
 
 <?php
-include 'footer.php';
+include './include/footer.php';
 ?>

@@ -2,6 +2,7 @@
     background: initial;
     text-align: initial;
     width: initial;
+    padding: 15px 25px 10px 20px !important;
 }
 
 a.navbar-brand{
