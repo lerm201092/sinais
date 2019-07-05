@@ -12,11 +12,11 @@ include './include/header.php';?>
         <div class="row">
           <div class="col-sm-12">
             <ol class="breadcrumb">
-              <li><a href="index.html">Home</a></li>
-              <li><a href="room-list.html">Servicios</a></li>
-              <li class="active">UCI</li>
+              <li><a href="./index.php">Home</a></li>
+              <li><a href="servicios.php">Servicios</a></li>
+              <li class="active">UCIs</li>
             </ol>
-            <h1>UCI</h1>
+            <h1>UCIs</h1>
           </div>
         </div>
       </div>

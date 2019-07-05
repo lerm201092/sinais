@@ -14,9 +14,9 @@ include './include/header.php';?>
             <ol class="breadcrumb">
               <li><a href="./index.html">Home</a></li>
               <li><a href="servicios.php">Servicios</a></li>
-              <li class="active">Urgencias</li>
+              <li class="active">Consulta externa</li>
             </ol>
-            <h1>Urgencias</h1>
+            <h1>Consulta externa</h1>
           </div>
         </div>
       </div>
@@ -26,7 +26,10 @@ include './include/header.php';?>
 <div class="container">
   <div class="row"> 
     <div class="col-md-12 espacios text-justify">   
-        <p>Actualmente, disponemos de un área de urgencias, que ofrece atención segura y excelente calidad las 24 horas del día, con un equipo médico de urgencias y especialistas altamente calificados. Este servicio cuenta con dos (2) salas de observación adultos, una (1) sala observación pediatría, una (1) sala ERA pediatría, dos (2) consultorios médicos adultos, (1) consultorio médico pediatría, un (1) consultorio de triage adulto, un (1) consultorio de triage pediátrico, una (1) sala de reanimación que consta de tres cubículos, una (1) sala de procedimientos y yesos, una (1) sala de espera amplia y confortable.</p>
+        <p>En el área   de consulta externa ofrecemos atención en diferentes especialidades como Cirugía General, Cirugía Neurológica, Dermatología, ginecobstetricia, Medicina Interna, Medicina General, Odontología General, Oftalmología, Optometría, Ortopedia y Traumatología, Pediatría, Psicología, Urología, Cirugía Plástica.</p>
+
+        <h3>Odontología</h3>
+            <p>Nos hemos compenetrado cada vez mas con las necesidades de la salud integral odontológica como objetivo primordial para el bienestar y satisfacción de nuestros pacientes y la comunidad.  Como resultado de esta hemos creado un servicio odontológico integral.</p>
     </div>
   </div>
 </div>

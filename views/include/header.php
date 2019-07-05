@@ -102,7 +102,11 @@
           <li class="dropdown"> <a href="./src/servicios.php" data-toggle="dropdown" class="dropdown-toggle js-activated">Servicios<b class="caret"></b></a>
             <ul class="dropdown-menu">
               <li><a href="./servicios.php">Urgencias</a></li>
-              <li><a href="./uci.php">UCI</a></li>
+              <li><a href="./uci.php">UCIs</a></li>
+              <li><a href="./cirugia.php">Cirugia</a></li> 
+              <li><a href="./apoyo.php">Apoyo diagnóstico y terapéutico</a></li>
+              <li><a href="./externa.php">Consulta externa</a></li>
+              <li><a href="./hospitalizacion.php">Hospitalización</a></li> 
             </ul>
           </li>
           <li class="dropdown"> <a href="./src/#" data-toggle="dropdown" class="dropdown-toggle js-activated">Especialidades<b class="caret"></b></a>

@@ -14,9 +14,9 @@ include './include/header.php';?>
             <ol class="breadcrumb">
               <li><a href="./index.html">Home</a></li>
               <li><a href="servicios.php">Servicios</a></li>
-              <li class="active">Urgencias</li>
+              <li class="active">Hospitalización</li>
             </ol>
-            <h1>Urgencias</h1>
+            <h1>Hospitalización</h1>
           </div>
         </div>
       </div>
@@ -26,7 +26,9 @@ include './include/header.php';?>
 <div class="container">
   <div class="row"> 
     <div class="col-md-12 espacios text-justify">   
-        <p>Actualmente, disponemos de un área de urgencias, que ofrece atención segura y excelente calidad las 24 horas del día, con un equipo médico de urgencias y especialistas altamente calificados. Este servicio cuenta con dos (2) salas de observación adultos, una (1) sala observación pediatría, una (1) sala ERA pediatría, dos (2) consultorios médicos adultos, (1) consultorio médico pediatría, un (1) consultorio de triage adulto, un (1) consultorio de triage pediátrico, una (1) sala de reanimación que consta de tres cubículos, una (1) sala de procedimientos y yesos, una (1) sala de espera amplia y confortable.</p>
+        <p>La clínica cuenta con 105 camas de hospitalización, distribuidas en habitaciones unipersonales, bipersonales y tripersonales. Todas dotadas del confort y la seguridad necesarias para garantizar una estancia cálida con altos niveles de calidad.</p>
+
+        <p><b>Hospitalización pediátrica:</b> la clínica cuenta con 24 camas y cómodas poltronas reclino maticas para el familiar acompañante.</p>
     </div>
   </div>
 </div>

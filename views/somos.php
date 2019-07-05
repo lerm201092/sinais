@@ -12,8 +12,8 @@ include './include/header.php';?>
         <div class="row">
           <div class="col-sm-12">
             <ol class="breadcrumb">
-              <li><a href="index.html">Home</a></li>
-              <li><a href="room-list.html">Nosotros</a></li>
+              <li><a href="./index.php">Home</a></li>
+              <li><a href="apoyo.php">Nosotros</a></li>
               <li class="active">Quiénes somos</li>
             </ol>
             <h1>Quiénes somos</h1>
