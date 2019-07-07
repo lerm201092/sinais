@@ -134,7 +134,7 @@
               <li><a href="./contact-02.html">Contact 2</a></li>
             </ul>
           </li>
-          <li class="dropdown"> <a href="#" data-toggle="dropdown" class="dropdown-toggle js-activated">Contáctenos<b class="caret"></b></a>
+          <li> <a href="./contact.php">Contáctenos</a></li>
           </li>
         </ul>
       </div>

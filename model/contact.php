@@ -1,87 +1,71 @@
 <?php
 
-if ($_SERVER["REQUEST_METHOD"] == "POST")
-	{
+    require_once "./Mail/Mail.php";
 
-	// Error messages
-	$name = $_POST['name'];
-	$email = $_POST['email'];
-	$phone = $_POST['phone'];
-	$msgsubject = $_POST['subject'];
-	$comments = $_POST['comments'];
-	$verify = $_POST['verify'];
-	if (trim($name) == '')
-		{
-		echo '<div class="alert alert-danger alert-dismissable">
-  <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>Attention! You must enter your name.</div>';
-		exit();
-		}
-	  else
-	if (!filter_var($email, FILTER_VALIDATE_EMAIL))
-		{
-		echo '<div class="alert alert-danger alert-dismissable">
-  <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>Attention! Please enter a valid email address.</div>';
-		exit();
-		}
-	  else
-	if (trim($msgsubject) == '')
-		{
-		echo '<div class="alert alert-danger alert-dismissable">
-  <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>Attention! Please enter a subject.</div>';
-		exit();
-		}
-	  else
-	if (trim($comments) == '')
-		{
-		echo '<div class="alert alert-danger alert-dismissable">
-  <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>Attention! Please enter your message.</div>';
-		exit();
-		}
-	  else
-	if (!isset($verify) || trim($verify) == '')
-		{
-		echo '<div class="alert alert-danger alert-dismissable">
-  <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>Attention! Please answer the question.</div>';
-		exit();
-		}
-	  else
-	if (trim($verify) != '2')
-		{
-		echo '<div class="alert alert-danger alert-dismissable">
-  <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>Attention! Please give the right answer to the question.</div>';
-		exit();
-		}
+    if ($_SERVER["REQUEST_METHOD"] == "POST"){
 
-	// Your e-mailadress.
-	$recipient = "your@mail.com";
+        // Error messages
+        $name       = $_POST['name'];
+        $email      = $_POST['email'];
+        $msgsubject = $_POST['subject'];
+        $comments   = $_POST['comments'];
+        $verify     = $_POST['verify'];
 
-	// Mail subject
-	$subject = "You've been contacted by $name";
+        if (trim($name) == ''){
+            echo '<div class="alert alert-danger alert-dismissable">
+            <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>¡Atención! Debe ingresar su nombre.</div>';
+            exit();
+        }else if (!filter_var($email, FILTER_VALIDATE_EMAIL)){
+            echo '<div class="alert alert-danger alert-dismissable">
+            <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>¡Atención! Por favor, introduce una dirección de correo electrónico válida.</div>';
+            exit();
+        }else if (trim($msgsubject) == ''){
+            echo '<div class="alert alert-danger alert-dismissable">
+            <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>¡Atención! Por favor, introduzca un asunto.</div>';
+            exit();
+        }else if (trim($comments) == ''){
+            echo '<div class="alert alert-danger alert-dismissable">
+            <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>¡Atención! Por favor ingrese su mensaje.</div>';
+            exit();
+        }else if (!isset($verify) || trim($verify) == ''){
+            echo '<div class="alert alert-danger alert-dismissable">
+            <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>¡Atención! Por favor conteste la pregunta.</div>';
+            exit();
+        }else if (trim($verify) != '2')	{
+            echo '<div class="alert alert-danger alert-dismissable">
+            <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>¡Atención! Por favor, da la respuesta correcta a la pregunta.</div>';
+            exit();
+        }
 
-	// Mail content
-	$email_content = "You've been contacted by $name about $msgsubject \"
-$comments \" 
-You can contact $name via email, $email";
+        $email_content = "Has sido contactado por $name acerda de $msgsubject \n\n".
+                         $comments."\n\n"."Puede contactar a $name via email, $email";
 
-	// Mail headers
-	$email_headers = "From: $name <$email>";
+        $host     = "ssl://smtp.gmail.com";
+        $username = "";  //Colocar Correo de GMAIL
+        $password = "";  // Contraseña de correo 
+        $port     = "465";
 
-	// Main messages
-	if (mail($recipient, $subject, $email_content, $email_headers))
-		{
-		echo "<h1>Email Sent Successfully!</h1>";
-		echo '<div class="alert alert-success alert-dismissable"><button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>';
-		echo "<p>Thanks <strong>$name</strong>, your message has been sent to us.</p>";
-		echo '</div>';
-		}
-	  else
-		{
-		echo "<p>Oops! Something went wrong and we couldn't send your message.</p>";
-		}
-	}
-  else
-	{
-	echo "<p>There was a problem with your submission, please try again.</p>";
-	}
+        $to            = ""; // Email de quien recibe 
+        $email_from    = $email;
+        $email_subject = "Has sido contactado por ".$name;
+        $email_body    =  $email_content;
 
+        $headers = array ('From' => $email_from, 'To' => $to, 'Subject' => $email_subject);
+        $smtp = Mail::factory('smtp', array ('host' => $host, 'port' => $port, 'auth' => true, 'username' => $username, 'password' => $password));
+        $mail = $smtp->send($to, $headers, $email_body);
+
+
+        if (PEAR::isError($mail)) {
+            echo("<p>" . $mail->getMessage() . "</p>");
+        } else {
+            echo "<h1>¡Correo electrónico enviado con éxito!</h1>";
+            echo '<div class="alert alert-success alert-dismissable"><button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>';
+            echo "<p>Thanks <strong>$name</strong>, tu mensaje ha sido enviado a nosotros.</p>";
+            echo '</div>';
+        }
+
+    }else{
+        echo '<div class="alert alert-danger alert-dismissable">
+        <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>¡Atención! Hubo un problema con su envío, por favor intente nuevamente.</div>';
+    }
 ?>
