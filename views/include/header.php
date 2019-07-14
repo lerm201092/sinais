@@ -96,7 +96,7 @@
 		      <li class="dropdown"> <a href="./somos.php" data-toggle="dropdown" class="dropdown-toggle js-activated"><i class="fa fa-users"></i> Nosotros<b class="caret"></b></a>
             <ul class="dropdown-menu">
               <li><a href="./somos.php">Quiénes somos</a></li>
-              <li><a href="./room-detail.html">Trabaje con nosotros</a></li>
+              <!-- <li><a href="./room-detail.html">Trabaje con nosotros</a></li> -->
             </ul>
           </li>
           <li class="dropdown"> <a href="./src/servicios.php" data-toggle="dropdown" class="dropdown-toggle js-activated"><i class="fa fa-stethoscope"></i> Servicios<b class="caret"></b></a>
