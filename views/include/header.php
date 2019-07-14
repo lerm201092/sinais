@@ -89,7 +89,7 @@
         <button type="button" data-toggle="collapse" data-target="#navbar-collapse-grid" class="navbar-toggle"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
         <a href="./index.php" class="navbar-brand">         
         <!-- Logo -->
-        <div id="logo" class="col-md-12"> <p><img id="default-logo" src="./src/images/logo.png" alt="Sinais" style="height:44px;"> <img id="retina-logo" src="./src/images/logo.png" alt="Sinais" style="height:44px;"> </p></div>
+        <div id="logo" class="col-md-12"> <p><img id="default-logo" src="./src/images/logo.png" alt="Sinais" style="height:35px; width: auto; margin-top: 10px;"> <img id="retina-logo" src="./src/images/logo.png" alt="Sinais" style="height:35px; width: auto; margin-top: 10px;"> </p></div>
         </a> </div>
       <div id="navbar-collapse-grid" class="navbar-collapse collapse">
         <ul class="nav navbar-nav">
