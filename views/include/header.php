@@ -117,6 +117,10 @@
               <li><a href="./ortopedia.php">Ortopedia</a></li>
               <li><a href="./pidiatra.php">Pediatria</a></li>
               <li><a href="./intensiva.php">Intensivista</a></li>
+              <li><a href="./urologia.php">Urología</a></li>
+              <li><a href="./oftamologia.php">Oftalmología</a></li>
+              <li><a href="./interna.php">Medicina interna</a></li>
+              <li><a href="./spi.php">Psicología</a></li>
             </ul>
           </li>
           <li> <a href="./src/gallery.html"><i class="fa fa-heart-o"></i> Convenios</a></li>
