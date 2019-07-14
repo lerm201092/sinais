@@ -111,8 +111,12 @@
           </li>
           <li class="dropdown"> <a href="./src/#" data-toggle="dropdown" class="dropdown-toggle js-activated"><i class="fa fa-star-o "></i> Especialidades<b class="caret"></b></a>
             <ul class="dropdown-menu">
-              <li><a href="./blog.html">Blog grid</a></li>
-              <li><a href="./blog-post.html">Blog post</a></li>
+              <li><a href="../anestecia.php">Anestesiología</a></li>
+              <li><a href="../cirugias.php">Cirugias</a></li>
+              <li><a href="../ginecologia.php">Ginecologia</a></li>
+              <li><a href="../ortopedia.php">Ortopedia</a></li>
+              <li><a href="../pidiatra.php">Pediatria</a></li>
+              <li><a href="../intensiva.php">Intensivista</a></li>
             </ul>
           </li>
           <li> <a href="./src/gallery.html"><i class="fa fa-heart-o"></i> Convenios</a></li>
