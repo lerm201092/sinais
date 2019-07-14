@@ -93,13 +93,13 @@
         </a> </div>
       <div id="navbar-collapse-grid" class="navbar-collapse collapse">
         <ul class="nav navbar-nav">
-		      <li class="dropdown"> <a href="./somos.php" data-toggle="dropdown" class="dropdown-toggle js-activated">Nosotros<b class="caret"></b></a>
+		      <li class="dropdown"> <a href="./somos.php" data-toggle="dropdown" class="dropdown-toggle js-activated"><i class="fa fa-users"></i> Nosotros<b class="caret"></b></a>
             <ul class="dropdown-menu">
               <li><a href="./somos.php">Quiénes somos</a></li>
               <li><a href="./room-detail.html">Trabaje con nosotros</a></li>
             </ul>
           </li>
-          <li class="dropdown"> <a href="./src/servicios.php" data-toggle="dropdown" class="dropdown-toggle js-activated">Servicios<b class="caret"></b></a>
+          <li class="dropdown"> <a href="./src/servicios.php" data-toggle="dropdown" class="dropdown-toggle js-activated"><i class="fa fa-stethoscope"></i> Servicios<b class="caret"></b></a>
             <ul class="dropdown-menu">
               <li><a href="./servicios.php">Urgencias</a></li>
               <li><a href="./uci.php">UCIs</a></li>
@@ -109,32 +109,32 @@
               <li><a href="./hospitalizacion.php">Hospitalización</a></li> 
             </ul>
           </li>
-          <li class="dropdown"> <a href="./src/#" data-toggle="dropdown" class="dropdown-toggle js-activated">Especialidades<b class="caret"></b></a>
+          <li class="dropdown"> <a href="./src/#" data-toggle="dropdown" class="dropdown-toggle js-activated"><i class="fa fa-star-o "></i> Especialidades<b class="caret"></b></a>
             <ul class="dropdown-menu">
               <li><a href="./blog.html">Blog grid</a></li>
               <li><a href="./blog-post.html">Blog post</a></li>
             </ul>
           </li>
-          <li> <a href="./src/gallery.html">Convenios</a></li>
-          <li class="dropdown"> <a href="./src/#" data-toggle="dropdown" class="dropdown-toggle js-activated">Blog<b class="caret"></b></a>
+          <li> <a href="./src/gallery.html"><i class="fa fa-heart-o"></i> Convenios</a></li>
+          <li class="dropdown"> <a href="./src/#" data-toggle="dropdown" class="dropdown-toggle js-activated"><i class="fa fa-edit"></i> Blog<b class="caret"></b></a>
             <ul class="dropdown-menu">
               <li><a href="./contact-01.html">Contact 1</a></li>
               <li><a href="./contact-02.html">Contact 2</a></li>
             </ul>
           </li>
-          <li class="dropdown"> <a href="./src/#" data-toggle="dropdown" class="dropdown-toggle js-activated">Administración<b class="caret"></b></a>
+          <li class="dropdown"> <a href="./src/#" data-toggle="dropdown" class="dropdown-toggle js-activated"><i class="fa fa-cog"></i> Administración<b class="caret"></b></a>
             <ul class="dropdown-menu">
               <li><a href="./contact-01.html">Contact 1</a></li>
               <li><a href="./contact-02.html">Contact 2</a></li>
             </ul>
           </li>
-          <li class="dropdown"> <a href="./src/#" data-toggle="dropdown" class="dropdown-toggle js-activated">Pacientes<b class="caret"></b></a>
+          <li class="dropdown"> <a href="./src/#" data-toggle="dropdown" class="dropdown-toggle js-activated"><i class="fa fa-user"></i> Pacientes<b class="caret"></b></a>
             <ul class="dropdown-menu">
               <li><a href="./contact-01.html">Contact 1</a></li>
               <li><a href="./contact-02.html">Contact 2</a></li>
             </ul>
           </li>
-          <li> <a href="./contact.php">Contáctenos</a></li>
+          <li> <a href="./contact.php"><i class="fa fa-envelope-o"></i> Contáctenos</a></li>
           </li>
         </ul>
       </div>
