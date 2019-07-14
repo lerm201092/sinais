@@ -124,12 +124,7 @@
             </ul>
           </li>
           <li> <a href="./src/gallery.html"><i class="fa fa-heart-o"></i> Convenios</a></li>
-          <li class="dropdown"> <a href="./src/#" data-toggle="dropdown" class="dropdown-toggle js-activated"><i class="fa fa-edit"></i> Blog<b class="caret"></b></a>
-            <ul class="dropdown-menu">
-              <li><a href="./contact-01.html">Contact 1</a></li>
-              <li><a href="./contact-02.html">Contact 2</a></li>
-            </ul>
-          </li>
+          <li> <a href="https://clinicasinaisvitais.blogspot.com/" target="_blank"><i class="fa fa-edit"></i> Blog</a></li>
           <li class="dropdown"> <a href="./src/#" data-toggle="dropdown" class="dropdown-toggle js-activated"><i class="fa fa-cog"></i> Administración<b class="caret"></b></a>
             <ul class="dropdown-menu">
               <li><a href="./contact-01.html">Contact 1</a></li>
