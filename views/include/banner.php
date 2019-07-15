@@ -45,7 +45,7 @@
                         data-speed="700" 
                         data-start="1700" 
                         data-easing="easeOutBack"> 
-						<span><i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i></span> Double room <span><i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i></span></div>
+						<span><i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i></span> .... <span><i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i></span></div>
           <!-- Layer 2 -->
           <div class="caption sft revolution-starhotel smalltext"  
           				data-x="682" 
@@ -53,7 +53,7 @@
                         data-speed="800" 
                         data-start="1700" 
                         data-easing="easeOutBack">
-						<span>€ 99,- a night this summer</span></div>
+						<span>....</span></div>
         <!-- Layer 3 -->
                   <div class="caption sft"  
           				data-x="785" 
@@ -61,7 +61,7 @@
                         data-speed="1000" 
                         data-start="1900" 
                         data-easing="easeOutBack">
-						<a href="room-detail.html" class="button btn btn-purple btn-lg">Book this room</a> 
+						<!-- <a href="room-detail.html" class="button btn btn-purple btn-lg">,,,,</a> -->
                   </div>
         </li>
 
