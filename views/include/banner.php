@@ -5,7 +5,7 @@
         <!-- Slide 1 -->
         <li data-transition="fade" data-slotamount="7" data-masterspeed="1500" > 
           <!-- Main Image --> 
-          <img src="./src/images/slides/fachada.jpg" style="opacity:0;" alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat"> 
+          <img src="./src/images/slides/banner_1.jpg" style="opacity:0;" alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat"> 
           <!-- Layers -->           
           <!-- Layer 1 -->
           <div class="caption sft revolution-starhotel bigtext"  
@@ -116,7 +116,7 @@
                         data-start="1700" 
                         data-easing="easeOutBack"> 
 						<span>Equipos médicos</span><br/>
-            <span> con la tecnología</span><br/>
+            <span>con la tecnología</span><br/>
             <span>más avanzada</span></div>
           <!-- Layer 2 -->
           <div class="caption sft revolution-starhotel smalltext"  
@@ -180,8 +180,10 @@
                         data-speed="700" 
                         data-start="1700" 
                         data-easing="easeOutBack">  
-						<span>La calidad asistencial,	</span> <br/>
-            <span> nuestra razón de ser</span></div>
+						<span>La calidad </span> <br/>
+            <span>asistencial,	</span> <br/>
+            <span>nuestra razón</span> <br/>
+            <span> de ser</span></div>
           <!-- Layer 2 -->
           <div class="caption sft revolution-starhotel smalltext"  
           				data-x="605" 
@@ -212,7 +214,8 @@
                         data-start="1700" 
                         data-easing="easeOutBack">  
 						<span>Personal médico  </span> <br/>
-            <span>altamente calificado</span>
+            <span>altamente </span><br/>
+            <span>calificado</span><br/>
             <span>y con experiencia</span>
             </div>
           <!-- Layer 2 -->
