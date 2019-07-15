@@ -14,7 +14,7 @@
                         data-speed="700" 
                         data-start="1700" 
                         data-easing="easeOutBack"> 
-						<span><i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i></span> A Five Star Hotel <span><i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i></span></div>
+						<span><i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i></span> .....<span><i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i></span></div>
           <!-- Layer 2 -->
           <div class="caption sft revolution-starhotel smalltext"  
           				data-x="605" 
@@ -22,7 +22,7 @@
                         data-speed="800" 
                         data-start="1700" 
                         data-easing="easeOutBack">
-						<span>And we like to keep it that way!</span></div>
+						<span>,,,,</span></div>
         <!-- Layer 3 -->
                   <div class="caption sft"  
           				data-x="775" 
@@ -30,7 +30,7 @@
                         data-speed="1000" 
                         data-start="1900" 
                         data-easing="easeOutBack">
-						<a href="room-list.html" class="button btn btn-purple btn-lg">See rooms</a> 
+					<!--	<a href="room-list.html" class="button btn btn-purple btn-lg">See rooms</a> -->
                   </div>
         </li>
 		<!-- Slide 2 -->
@@ -76,7 +76,7 @@
                         data-speed="700" 
                         data-start="1700" 
                         data-easing="easeOutBack"> 
-						<span><i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i></span> A Five Star Hotel <span><i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i></span></div>
+						<span><i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i></span> .....<span><i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i></span></div>
           <!-- Layer 2 -->
           <div class="caption sft revolution-starhotel smalltext"  
           				data-x="605" 
@@ -84,7 +84,7 @@
                         data-speed="800" 
                         data-start="1700" 
                         data-easing="easeOutBack">
-						<span>And we like to keep it that way!</span></div>
+						<span>,,,,</span></div>
         <!-- Layer 3 -->
                   <div class="caption sft"  
           				data-x="775" 
@@ -92,7 +92,7 @@
                         data-speed="1000" 
                         data-start="1900" 
                         data-easing="easeOutBack">
-						<a href="room-list.html" class="button btn btn-purple btn-lg">See rooms</a> 
+					<!--	<a href="room-list.html" class="button btn btn-purple btn-lg">See rooms</a> -->
                   </div>
         </li>
         <li data-transition="fade" data-slotamount="7" data-masterspeed="1500" > 
@@ -106,7 +106,7 @@
                         data-speed="700" 
                         data-start="1700" 
                         data-easing="easeOutBack"> 
-						<span><i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i></span> A Five Star Hotel <span><i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i></span></div>
+						<span><i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i></span> .....<span><i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i></span></div>
           <!-- Layer 2 -->
           <div class="caption sft revolution-starhotel smalltext"  
           				data-x="605" 
@@ -114,7 +114,7 @@
                         data-speed="800" 
                         data-start="1700" 
                         data-easing="easeOutBack">
-						<span>And we like to keep it that way!</span></div>
+						<span>,,,,</span></div>
         <!-- Layer 3 -->
                   <div class="caption sft"  
           				data-x="775" 
@@ -122,7 +122,7 @@
                         data-speed="1000" 
                         data-start="1900" 
                         data-easing="easeOutBack">
-						<a href="room-list.html" class="button btn btn-purple btn-lg">See rooms</a> 
+					<!--	<a href="room-list.html" class="button btn btn-purple btn-lg">See rooms</a> -->
                   </div>
         </li>
 
@@ -137,7 +137,7 @@
                         data-speed="700" 
                         data-start="1700" 
                         data-easing="easeOutBack"> 
-						<span><i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i></span> A Five Star Hotel <span><i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i></span></div>
+						<span><i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i></span> .....<span><i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i></span></div>
           <!-- Layer 2 -->
           <div class="caption sft revolution-starhotel smalltext"  
           				data-x="605" 
@@ -145,7 +145,7 @@
                         data-speed="800" 
                         data-start="1700" 
                         data-easing="easeOutBack">
-						<span>And we like to keep it that way!</span></div>
+						<span>,,,,</span></div>
         <!-- Layer 3 -->
                   <div class="caption sft"  
           				data-x="775" 
@@ -153,7 +153,7 @@
                         data-speed="1000" 
                         data-start="1900" 
                         data-easing="easeOutBack">
-						<a href="room-list.html" class="button btn btn-purple btn-lg">See rooms</a> 
+					<!--	<a href="room-list.html" class="button btn btn-purple btn-lg">See rooms</a> -->
                   </div>
         </li>
         <li data-transition="fade" data-slotamount="7" data-masterspeed="1500" > 
@@ -167,7 +167,7 @@
                         data-speed="700" 
                         data-start="1700" 
                         data-easing="easeOutBack"> 
-						<span><i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i></span> A Five Star Hotel <span><i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i></span></div>
+						<span><i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i></span> .....<span><i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i></span></div>
           <!-- Layer 2 -->
           <div class="caption sft revolution-starhotel smalltext"  
           				data-x="605" 
@@ -175,7 +175,7 @@
                         data-speed="800" 
                         data-start="1700" 
                         data-easing="easeOutBack">
-						<span>And we like to keep it that way!</span></div>
+						<span>,,,,</span></div>
         <!-- Layer 3 -->
                   <div class="caption sft"  
           				data-x="775" 
@@ -183,7 +183,7 @@
                         data-speed="1000" 
                         data-start="1900" 
                         data-easing="easeOutBack">
-						<a href="room-list.html" class="button btn btn-purple btn-lg">See rooms</a> 
+					<!--	<a href="room-list.html" class="button btn btn-purple btn-lg">See rooms</a> -->
                   </div>
         </li>
         <li data-transition="fade" data-slotamount="7" data-masterspeed="1500" > 
@@ -197,7 +197,7 @@
                         data-speed="700" 
                         data-start="1700" 
                         data-easing="easeOutBack"> 
-						<span><i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i></span> A Five Star Hotel <span><i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i></span></div>
+						<span><i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i></span> .....<span><i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i></span></div>
           <!-- Layer 2 -->
           <div class="caption sft revolution-starhotel smalltext"  
           				data-x="605" 
@@ -205,7 +205,7 @@
                         data-speed="800" 
                         data-start="1700" 
                         data-easing="easeOutBack">
-						<span>And we like to keep it that way!</span></div>
+						<span>,,,,</span></div>
         <!-- Layer 3 -->
                   <div class="caption sft"  
           				data-x="775" 
@@ -213,7 +213,7 @@
                         data-speed="1000" 
                         data-start="1900" 
                         data-easing="easeOutBack">
-						<a href="room-list.html" class="button btn btn-purple btn-lg">See rooms</a> 
+					<!--	<a href="room-list.html" class="button btn btn-purple btn-lg">See rooms</a> -->
                   </div>
         </li>
       </ul>
