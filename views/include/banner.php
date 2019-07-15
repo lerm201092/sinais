@@ -5,16 +5,20 @@
         <!-- Slide 1 -->
         <li data-transition="fade" data-slotamount="7" data-masterspeed="1500" > 
           <!-- Main Image --> 
-          <img src="./src/images/slides/banner_1.jpg" style="opacity:0;" alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat"> 
+          <img src="./src/images/slides/fachada.jpg" style="opacity:0;" alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat"> 
           <!-- Layers -->           
           <!-- Layer 1 -->
           <div class="caption sft revolution-starhotel bigtext"  
-          				data-x="505" 
-                        data-y="30" 
+          				data-x="-20" 
+                        data-y="70" 
                         data-speed="700" 
                         data-start="1700" 
                         data-easing="easeOutBack"> 
-						<span><i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i></span> .....<span><i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i></span></div>
+						<span>Modernas y </span> <br/>
+            <span>confortables</span><br/>
+            <span>instalaciones en</span><br/>
+            <span>Bosconia, Cesar</span>
+            </div>
           <!-- Layer 2 -->
           <div class="caption sft revolution-starhotel smalltext"  
           				data-x="605" 
@@ -22,7 +26,7 @@
                         data-speed="800" 
                         data-start="1700" 
                         data-easing="easeOutBack">
-						<span>,,,,</span></div>
+						<span></span></div>
         <!-- Layer 3 -->
                   <div class="caption sft"  
           				data-x="775" 
@@ -40,12 +44,14 @@
           <!-- Layers -->           
           <!-- Layer 1 -->
           <div class="caption sft revolution-starhotel bigtext"  
-          				data-x="585" 
-                        data-y="30" 
+                   data-x="-20" 
+                        data-y="70" 
                         data-speed="700" 
                         data-start="1700" 
                         data-easing="easeOutBack"> 
-						<span><i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i></span> .... <span><i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i></span></div>
+						<span>La sonrisa es </span><br/>
+            <span>nuestra mejor </span><br/>
+            <span>medicina natural</span></div>
           <!-- Layer 2 -->
           <div class="caption sft revolution-starhotel smalltext"  
           				data-x="682" 
@@ -53,7 +59,7 @@
                         data-speed="800" 
                         data-start="1700" 
                         data-easing="easeOutBack">
-						<span>....</span></div>
+						<span></span></div>
         <!-- Layer 3 -->
                   <div class="caption sft"  
           				data-x="785" 
@@ -71,12 +77,15 @@
           <!-- Layers -->           
           <!-- Layer 1 -->
           <div class="caption sft revolution-starhotel bigtext"  
-          				data-x="505" 
-                        data-y="30" 
+                  data-x="-20" 
+                        data-y="70" 
                         data-speed="700" 
                         data-start="1700" 
                         data-easing="easeOutBack"> 
-						<span><i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i></span> .....<span><i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i></span></div>
+						<span>Brindamos </span><br/>
+            <span>información</span><br/>
+            <span>clara, honesta y </span><br/>
+            <span>con respeto</span></div>
           <!-- Layer 2 -->
           <div class="caption sft revolution-starhotel smalltext"  
           				data-x="605" 
@@ -84,7 +93,7 @@
                         data-speed="800" 
                         data-start="1700" 
                         data-easing="easeOutBack">
-						<span>,,,,</span></div>
+						<span></span></div>
         <!-- Layer 3 -->
                   <div class="caption sft"  
           				data-x="775" 
@@ -101,12 +110,14 @@
           <!-- Layers -->           
           <!-- Layer 1 -->
           <div class="caption sft revolution-starhotel bigtext"  
-          				data-x="505" 
-                        data-y="30" 
+                data-x="-20" 
+                        data-y="70" 
                         data-speed="700" 
                         data-start="1700" 
                         data-easing="easeOutBack"> 
-						<span><i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i></span> .....<span><i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i></span></div>
+						<span>Equipos médicos</span><br/>
+            <span> con la tecnología</span><br/>
+            <span>más avanzada</span></div>
           <!-- Layer 2 -->
           <div class="caption sft revolution-starhotel smalltext"  
           				data-x="605" 
@@ -114,7 +125,7 @@
                         data-speed="800" 
                         data-start="1700" 
                         data-easing="easeOutBack">
-						<span>,,,,</span></div>
+						<span></span></div>
         <!-- Layer 3 -->
                   <div class="caption sft"  
           				data-x="775" 
@@ -132,12 +143,14 @@
           <!-- Layers -->           
           <!-- Layer 1 -->
           <div class="caption sft revolution-starhotel bigtext"  
-          				data-x="505" 
-                        data-y="30" 
+                    data-x="-20" 
+                        data-y="70" 
                         data-speed="700" 
                         data-start="1700" 
-                        data-easing="easeOutBack"> 
-						<span><i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i></span> .....<span><i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i></span></div>
+                        data-easing="easeOutBack">  
+						<span>Todo lo que</span><br/>
+            <span>necesita en salud,</span><br/>
+            <span>en un solo lugar</span></div>
           <!-- Layer 2 -->
           <div class="caption sft revolution-starhotel smalltext"  
           				data-x="605" 
@@ -145,7 +158,7 @@
                         data-speed="800" 
                         data-start="1700" 
                         data-easing="easeOutBack">
-						<span>,,,,</span></div>
+						<span></span></div>
         <!-- Layer 3 -->
                   <div class="caption sft"  
           				data-x="775" 
@@ -162,12 +175,13 @@
           <!-- Layers -->           
           <!-- Layer 1 -->
           <div class="caption sft revolution-starhotel bigtext"  
-          				data-x="505" 
-                        data-y="30" 
+                  data-x="-20" 
+                        data-y="70" 
                         data-speed="700" 
                         data-start="1700" 
-                        data-easing="easeOutBack"> 
-						<span><i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i></span> .....<span><i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i></span></div>
+                        data-easing="easeOutBack">  
+						<span>La calidad asistencial,	</span> <br/>
+            <span> nuestra razón de ser</span></div>
           <!-- Layer 2 -->
           <div class="caption sft revolution-starhotel smalltext"  
           				data-x="605" 
@@ -175,7 +189,7 @@
                         data-speed="800" 
                         data-start="1700" 
                         data-easing="easeOutBack">
-						<span>,,,,</span></div>
+						<span></span></div>
         <!-- Layer 3 -->
                   <div class="caption sft"  
           				data-x="775" 
@@ -192,12 +206,15 @@
           <!-- Layers -->           
           <!-- Layer 1 -->
           <div class="caption sft revolution-starhotel bigtext"  
-          				data-x="505" 
-                        data-y="30" 
+                  data-x="-20" 
+                        data-y="70" 
                         data-speed="700" 
                         data-start="1700" 
-                        data-easing="easeOutBack"> 
-						<span><i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i></span> .....<span><i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i></span></div>
+                        data-easing="easeOutBack">  
+						<span>Personal médico  </span> <br/>
+            <span>altamente calificado</span>
+            <span>y con experiencia</span>
+            </div>
           <!-- Layer 2 -->
           <div class="caption sft revolution-starhotel smalltext"  
           				data-x="605" 
@@ -205,7 +222,7 @@
                         data-speed="800" 
                         data-start="1700" 
                         data-easing="easeOutBack">
-						<span>,,,,</span></div>
+						<span></span></div>
         <!-- Layer 3 -->
                   <div class="caption sft"  
           				data-x="775" 

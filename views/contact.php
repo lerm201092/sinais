@@ -32,22 +32,32 @@ include './include/header.php';?>
         <!-- Panel -->
         <div class="panel panel-default text-center">
           <div class="panel-heading">
-            <div class="panel-title"><i class="fa fa-star"></i> <strong>Starhotel</strong></div>
+            <div class="panel-title"><i class="fa fa-star"></i> <strong>Contacto</strong></div>
           </div>
           <div class="panel-body">
-            <address>
-            795 Las Palmas<br>
-            Spain, CA 94107<br>
-            <abbr title="Phone">P:</abbr> <a href="#">(123) 456-7890</a><br>
-            <abbr title="Email">E:</abbr> <a href="#">mail@example.com</a><br>
-            <abbr title="Website">W:</abbr> <a href="#">www.slashdown.nl</a><br>
-            </address>
+            <p><b>Referencia - contra referencia</b></p>
+
+            <abbr title="Phone">Tel:</abbr>(5) 578 1068 EXT: 127<br/>
+            <abbr title="Cell">Cel:</abbr>315 865 2435<br/>
+            <abbr title="Email">Email:</abbr> <a href="#">referenciaclinicasinaisvitais@gmail.com</a><br/><br/>
+
+            <p><b>Admisiones</b></p>
+
+            <abbr title="Phone">Tel:</abbr>(5) 578 1068 EXT: 113<br>
+            <abbr title="Email">Email:</abbr> <a href="#">admisiones@clinicasinaisvitais.com</a><br/><br/>
+
+            <p><b>Consulta externa</b></p>
+
+            <abbr title="Phone">Tel:</abbr>(5) 578 1068 EXT: 111 - 114 - 118<br>
+            <abbr title="Cell">Cel:</abbr>317 638 1535<br>
+            <abbr title="Email">Email:</abbr> <a href="#">consultaexterna@clinicasinaisvitais.com</a><br>
+
           </div>
         </div>
         <!-- GMap -->
 		<div class="mt30">
           <div id="map">
-            <p>This will be replaced with the Google Map.</p>
+            <p><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15718.038423826114!2d-73.8840097!3d9.9746963!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xbd2e6e5ed4ba7eeb!2sCl%C3%ADnica+Sinais+Vitais!5e0!3m2!1ses!2sco!4v1563163776683!5m2!1ses!2sco" width="455" height="297" frameborder="0" style="border:0" allowfullscreen></iframe></p>
           </div>
 		</div>
       </div>
@@ -57,7 +67,7 @@ include './include/header.php';?>
     <section id="contact-form" class="mt50">
       <div class="col-md-7">
         <h2 class="lined-heading"><span>Enviar un mensaje</span></h2>
-        <p>Pellentesque facilisis justo sed enim facilisis luctus. Duis pretium nibh at lectus tempus, vel lacinia quam adipiscing. Nullam luctus congue mattis.</p>
+        <p>Comuníquese con nosotros para brindarle una mejor atención e informarle sobre todos nuestros servicios y especialidades médicas. Estamos disponibles para usted las 24 horas del día, y así poder satisfacer cualquier inquietud, nuestro personal estará atento a todos sus comentarios.</p>
         <form class="clearfix mt50" role="form" method="post" action="../model/contact.php" name="contactform" id="contactform">
           <!-- Error message -->
 		  <div id="message"></div>
@@ -78,9 +88,9 @@ include './include/header.php';?>
           <div class="form-group">
             <label for="subject" accesskey="S">Asunto</label>
             <select name="subject" id="subject" class="form-control">
-              <option value="Booking">Booking</option>
-              <option value="a Room">Room</option>
-              <option value="other">Other</option>
+              <option value="Booking">Solicitud de información</option>
+              <option value="a Room">Interez laboral</option>
+              <option value="other">Otros</option>
             </select>
           </div>
           <div class="form-group">
@@ -103,7 +113,7 @@ include './include/header.php';?>
   <div class="container">
     <div class="row">
       <div class="col-md-8 col-sm-8 col-xs-12">
-        <h2>This is a Call to Action that you can use for all purposes!</h2>
+        <h2>|This is a Call to Action that you can use for all purposes!</h2>
       </div>
       <div class="col-md-4 col-sm-4 col-xs-12">
         <a href="elements.html" class="btn btn-default btn-lg pull-right">More features</a>
