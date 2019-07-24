@@ -3,6 +3,7 @@
     text-align: initial;
     width: initial;
     padding: 15px 25px 10px 20px !important;
+    border: none!important;
 }
 
 a.navbar-brand{
@@ -15,7 +16,14 @@ a.navbar-brand{
 
 .navbar-nav > li:first-child {
     padding-left: 10px;
+    border-left : 1px solid #e8e8e8;
 }
+
+#li_1{
+    border-left : 1px solid #e8e8e8;
+}
+
+
 .navbar-nav > li > a {
     padding: 32px 15px;
 }
@@ -30,6 +38,12 @@ a.navbar-brand{
     #logo{
         text-align: center;
         width: 100%;
+        height: 100%!important;
+        border: none!important;
+    }
+
+    #li_1{
+        border-left : none!important;
     }
 }
 
@@ -46,4 +60,6 @@ a.navbar-brand{
         text-align: left;
         width: 100%;
     }
+
+
 }
