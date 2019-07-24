@@ -58,7 +58,7 @@ include './include/banner.php';
             <p class="p-home">
                 <span class="fa fa-users icon-home">
             </p>
-            <p class="texto-home">Nuestro equipo de profesionales está integrado por profesionales del más alto nivel y experiencia</p>
+            <p class="texto-home">Nuestro equipo de humano está integrado por profesionales del más alto nivel y experiencia.</p>
         </div>
         <div class="col-md-4 divInfo">
             <p class="p-home">
