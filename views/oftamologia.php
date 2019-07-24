@@ -25,9 +25,16 @@ include './include/header.php';?>
 </section>
 <div class="container">
   <div class="row"> 
-    <div class="col-md-12 espacios text-justify">
+    <div class="col-md-4 col-sm-12 espacios text-justify">
         <p>La Oftalmología  es la especialidad médica que estudia las enfermedades de ojo y su tratamiento, incluyendo el globo ocular, su musculatura, el sistema lagrimal y los párpados. La Clínica Sinais Vitais cuenta con médico oftalmólogo, especialidad médico-quirúrgica encargada de diagnosticar y tratar las enfermedades de los ojos, la córnea y la región periocular.</p>
         <p>Prestamos los servicios sub especializados en segmento anterior y cirugía plástica ocular.</p>
+    </div>
+
+    <div class="col-md-4 col-sm-12 espacios text-justify">
+        <img src="src/images/blog/oftalmologia_1.jpg" alt="">
+    </div>
+    <div class="col-md-4 col-sm-12 espacios text-justify">
+      <img src="src/images/blog/oftalmologia_2.jpg" alt="">
     </div>
   </div>
 </div>

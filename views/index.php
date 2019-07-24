@@ -134,9 +134,15 @@ include './include/banner.php';
             <p class="texto-home"><i>“Todo ha sido espectacular, mi parto fue bien atendido y mi bebé en perfectas condiciones. Todos se han portado bien, no tengo queja”.</i></p>
         </div>
     </div>
+</div> <br><br><br>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+        <div class="embed-responsive embed-responsive-16by9"> <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe> </div>
+        </div>
+    </div>
 </div>
-
-
 
 <?php
 include './include/footer.php';

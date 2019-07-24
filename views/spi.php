@@ -25,9 +25,17 @@ include './include/header.php';?>
 </section>
 <div class="container">
   <div class="row"> 
-    <div class="col-md-12 espacios text-justify">
+    <div class="col-md-4 col-sm-12 espacios text-justify">
         <p>Visitar a un psicólogo es de gran ayuda no sólo cuando hay problemas, sino también para auto-conocerse, tener una visión más clara de las cosas, aumentar su autoestima y mejorar su respuesta ante las vicisitudes. La Clínica Sinais Vitais presta el servicio de psicología como especialidad de apoyo al paciente ambulatorio, hospitalaria y sus familias; con el fin de favorecer mejoría en los cuadros clínicos en salud mental y atender las necesidades de la población</p>
     </div>
+
+    <div class="col-md-4 col-sm-12 espacios text-justify">
+        <img src="src/images/blog/psicologia_1.jpg" alt="">
+    </div>
+    <div class="col-md-4 col-sm-12 espacios text-justify">
+      <img src="src/images/blog/psicologia_2.jpg" alt="">
+    </div>
+
   </div>
 </div>
 

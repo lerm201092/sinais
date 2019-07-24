@@ -25,7 +25,7 @@ include './include/header.php';?>
 </section>
 <div class="container">
   <div class="row"> 
-    <div class="col-md-12 espacios text-justify">
+    <div class="col-md-4 col-sm-12 espacios text-justify">
         <p>El servicio de Urología atiende pacientes adultos y pediátricos con el fin de prevenir, diagnosticar y tratar las enfermedades del tracto genito - urinario, glándulas suprarrenales y retroperitoneo de ambos sexos. Esta especialidad capta paciente a través de la consulta externa programada. </p>
         <p>Contamos con un grupo de especialistas con más de 10 años de experiencia en las diferentes áreas de la especialidad.  Alguno  de los procedimientos urológicos que se practican en la Clínica Sinais Vitais son: </p>
         
@@ -34,6 +34,13 @@ include './include/header.php';?>
             <li>Cirugía laparoscópica</li>
             <li>Procedimientos diagnósticos como: urodinamia, cistoscopia, ecografías y biopsias de próstata</li>
         </ul>
+    </div>
+
+    <div class="col-md-4 col-sm-12 espacios text-justify">
+        <img src="src/images/blog/urulogia_1.jpg" alt="">
+    </div>
+    <div class="col-md-4 col-sm-12 espacios text-justify">
+      <img src="src/images/blog/urulogia_2.jpg" alt="">
     </div>
   </div>
 </div>

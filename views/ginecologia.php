@@ -25,10 +25,18 @@ include './include/header.php';?>
 </section>
 <div class="container">
   <div class="row"> 
-    <div class="col-md-12 espacios text-justify">
+    <div class="col-md-4 col-sm-12 espacios text-justify">
         <p>El servicio de ginecología de la Clínica Sinais Vitais cuenta con un grupo interdisciplinario de especialistas las 23 horas, que se encuentra con la capacidad de llevar a cabo cirugías ginecológicas por laparoscopia, cirugía de piso pélvico, histeroscopia diagnostica y ecografía pélvica trans vaginal.</p>
         <p>Así mismo, se brinda atención integral a la gestante, durante el periodo de embarazo, incluidas las complicaciones o patológicas urgentes relacionadas con el mismo y el proceso de atención del parto. Así mismo está incluida la atención perinatal del recién nacido sano y el periodo de puerperio. Este servicio realiza consulta de sub especialidades como oncología ginecológica, ginecología urológica, y patología cervical (colposcopia) en el área de consulta externa. </p>
         <p>La Clínica dispone de consultorios en el cual ofrece consulta de obstetricia de alto y bajo riesgo, así como consulta ginecológica y sub especialidades.</p>
+    </div>
+
+    <div class="col-md-4 col-sm-12 espacios text-justify">
+        <img src="src/images/blog/ginecologia_1.jpg" alt="Anestesiología">
+    </div>
+
+    <div class="col-md-4 col-sm-12 espacios text-justify">
+        <img src="src/images/blog/ginecologia_2.jpg" alt="Anestesiología">
     </div>
   </div>
 </div>

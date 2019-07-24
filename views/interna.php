@@ -25,8 +25,15 @@ include './include/header.php';?>
 </section>
 <div class="container">
   <div class="row"> 
-    <div class="col-md-12 espacios text-justify">
+    <div class="col-md-4 col-sm-12 espacios text-justify">
         <p>La Clínica Sinais Viatis aborda las enfermedades del paciente adulto de una forma integral, poniendo a disposición el servicio de medicina interna; que es una especialidad médica cuyo actuar está basado casi por completo en tratamientos no quirúrgicos. Esta especialidad presta sus servicios en consulta ambulatoria y en hospitalización.</p>
+    </div>
+
+    <div class="col-md-4 col-sm-12 espacios text-justify">
+        <img src="src/images/blog/interna_1.jpg" alt="">
+    </div>
+    <div class="col-md-4 col-sm-12 espacios text-justify">
+      <img src="src/images/blog/interna_2.jpg" alt="">
     </div>
   </div>
 </div>

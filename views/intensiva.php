@@ -25,8 +25,15 @@ include './include/header.php';?>
 </section>
 <div class="container">
   <div class="row"> 
-    <div class="col-md-12 espacios text-justify">
+    <div class="col-md-4 col-sm-12 espacios text-justify">
         <p>La medicina intensiva es una especialidad médica y de enfermería dedicada al suministro de soporte vital o de soporte a los sistemas orgánicos en los pacientes que están críticamente enfermos, quienes generalmente también requieren supervisión y monitorización intensiva. La clínica Sinais Vitais cuenta con Está conformada por un equipo de trabajo integrado por  intensivistas, un completo grupo de médicos sub-especialistas, cirujanos especialistas y traumatólogos, además de otros profesionales de apoyo las 24 horas del día, con un moderno equipamiento, lo que permite la vigilancia y tratamiento de pacientes que presentan o pueden presentar una inestabilidad de cualquiera de los sistemas fisiológicos.</p>
+    </div>
+    <div class="col-md-4 col-sm-12 espacios text-justify">
+        <img src="src/images/blog/intensivistas_1.jpg" alt="">
+    </div>
+
+    <div class="col-md-4 col-sm-12 espacios text-justify">
+        <img src="src/images/blog/intensivistas_2.jpg" alt="">
     </div>
   </div>
 </div>

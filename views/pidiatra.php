@@ -25,8 +25,11 @@ include './include/header.php';?>
 </section>
 <div class="container">
   <div class="row"> 
-    <div class="col-md-12 espacios text-justify">
-        <p>Pensando en los más pequeños, Clínica Sinais Vitais trabaja de la mano con médicos pediatras altamente formados y capacitados, para tratar de manera fiable el crecimiento y desarrollo de sus hijos. Nuestros profesionales médicos Pediatras, vigilaran las diferentes etapas del  crecimiento de su niño; tomando oportunamente medidas preventivas, de diagnóstico, tratamiento y, en su caso, la rehabilitación necesaria. </p>
+    <div class="col-md-6 col-sm-12 espacios text-justify">
+        <p>Pensando en los más pequeños, Clínica Sinais Vitais trabaja de la mano con médicos pediatras altamente formados y capacitados, para tratar de manera fiable el crecimiento y desarrollo de sus hijos. Nuestros profesionales médicos Pediatras, vigilaran las diferentes etapas del  crecimiento de su niño; tomando oportunamente medidas preventivas, de diagnóstico, tratamiento y, en su caso, la rehabilitación necesaria. </p></div>
+
+        <div class="col-md-6 col-sm-12 espacios text-justify">
+        <img src="src/images/blog/pediatria_1.jpg" alt="">
     </div>
   </div>
 </div>
