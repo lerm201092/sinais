@@ -26,9 +26,13 @@ include './include/banner.php';
         text-align: justify;
         margin-top:15px;
     }
-    .container .row{
+/*     .container .row{
         margin-top:30px;
-    }
+    } */
+
+    .navbar-nav > li > a {
+    padding: 25px 15px;
+}
 
     .p-img{
         text-align: center;
