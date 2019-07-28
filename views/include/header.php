@@ -41,6 +41,7 @@
 <script type="text/javascript" src="./src/rs-plugin/js/jquery.themepunch.tools.min.js"></script> 
 <script type="text/javascript" src="./src/rs-plugin/js/jquery.themepunch.revolution.min.js"></script> 
 <script type="text/javascript" src="./src/js/custom.js"></script> 
+<script type="text/javascript" src="./src/js/comun.js"></script> 
     <style>
 
     </style>
@@ -86,13 +87,13 @@
   <div class="navbar yamm navbar-default" id="sticky">
     <div class="container" style="width:100%; height: 64px!important;">
       <div class="navbar-header">
-        <button type="button" data-toggle="collapse" data-target="#navbar-collapse-grid" class="navbar-toggle"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-        <a href="./index.php" class="navbar-brand">         
+        <button onclick="preguntarmenu($(this))"; type="button" data-toggle="collapse" data-target="#navbar-collapse-grid" class="navbar-toggle"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+        <a href="./index.php" class="navbar-brand" ">         
         <!-- Logo -->
         <div id="logo" class="col-md-12"> <p><img id="default-logo" src="./src/images/logo.png" alt="Sinais" style="height:35px; width: auto; padding-bottom:7px;margin-top:3px;"> <img id="retina-logo" src="./src/images/logo.png" alt="Sinais" style="height:25px; width: auto;"> </p></div>
         </a> </div>
       <div id="navbar-collapse-grid" class="navbar-collapse collapse">
-        <ul class="nav navbar-nav">
+        <ul id="menuMovil" class="nav navbar-nav">
 		      <li class="dropdown" id="li_1"> <a href="./somos.php" data-toggle="dropdown" class="dropdown-toggle js-activated"><i class="fa fa-users"></i> Nosotros<b class="caret"></b></a>
             <ul class="dropdown-menu">
               <li><a href="./somos.php">Quiénes somos</a></li>
