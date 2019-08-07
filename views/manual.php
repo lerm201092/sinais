@@ -40,7 +40,7 @@ include './include/header.php';?>
         </section> <br/>
 
         <div class="col-md-12 espacios text-justify">   
-            <p><b>Son derechos de las personas relacionados con el servicio de salud, los siguientes:</b></p>            
+            <p class="lista"><b>Son derechos de las personas relacionados con el servicio de salud, los siguientes:</b></p>            
         </div>
 
         <div class="col-md-6 col-sm-12">
@@ -110,7 +110,7 @@ include './include/header.php';?>
         </div>
 
         <div class="col-md-12">
-            <p><b>Son deberes de las personas relacionados con el servicio de salud, los siguientes:</b></p>
+            <p class="lista"><b>Son deberes de las personas relacionados con el servicio de salud, los siguientes:</b></p>
         </div>
 
         <div class="col-md-6 col-sm-12">

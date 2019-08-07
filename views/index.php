@@ -5,7 +5,7 @@ include './include/banner.php';
 
 <style>
     .p-home{
-        border:3px solid #75c5cf;
+        border:3px solid #45a496;
         border-radius : 50%;
         width: 80px;
         height : 80px;
@@ -14,12 +14,12 @@ include './include/banner.php';
         padding : 20px 20px;
         margin : 0 auto;
         font-size: 24px;
-        color: #75c5cf;
+        color: #45a496;
     }
 
     .p-home:hover{
         color: white;
-        background: #75c5cf;
+        background: #45a496;
     }
 
     .texto-home{
@@ -45,10 +45,10 @@ include './include/banner.php';
     .titulo-seccion{
         font-size: 24px;
         font-weight: bold;
-        color : #75c5cf;
+        color : #45a496;
         text-align:center;
         margin-bottom: 30px;
-        margin-top: 15px;
+        margin-top: 25px;
     }
 </style>
 
@@ -138,8 +138,9 @@ include './include/banner.php';
 
 <div class="container">
     <div class="row">
-        <div class="col-md-12">
-        <div class="embed-responsive embed-responsive-16by9"> <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpOULjyy-n8?rel=0" allowfullscreen></iframe> </div>
+        <div class="col-md-6">
+        <iframe class="col-md-12 video_h" src="https://www.youtube.com/embed/1Dj3Gp7qPt4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <!-- <video src="https://www.youtube.com/watch?v=1Dj3Gp7qPt4" width="640" height="480" controls ></video> -->
         </div>
     </div>
 </div>

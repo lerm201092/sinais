@@ -451,8 +451,8 @@ img.zoom-img:hover {
 -------------------------------------------------- */
 /* Items */
 #top-header, #top-header a {
-	background: #272727;
-	color: #939393;
+	background:#275b53;
+	color: #ffffff;
 	font-size: 11px;
 }
 #top-header a:hover, #top-header .th-text .th-item .btn-group .btn-default:hover {
@@ -2101,4 +2101,21 @@ border: 1px solid;
 }
 #map img {
 	max-width: none !important;
+}
+
+
+.blog_h{
+	height: 1080px;
+}
+
+.video_h{
+	height: 315px;
+}
+
+.social-i{
+	font-size: 28px;
+}
+.color_b
+{
+	color: #ffffff !important;
 }

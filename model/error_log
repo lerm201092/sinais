@@ -1,0 +1,63 @@
+[01-Aug-2019 15:03:13 UTC] PHP Warning:  include_once(Net/SMTP.php): failed to open stream: No such file or directory in /home/cresvsin/clinicasinaisvitais.com/sinais/model/Mail/Mail/smtp.php on line 365
+[01-Aug-2019 15:03:13 UTC] PHP Warning:  include_once(): Failed opening 'Net/SMTP.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/cresvsin/clinicasinaisvitais.com/sinais/model/Mail/Mail/smtp.php on line 365
+[01-Aug-2019 15:03:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Net_SMTP' not found in /home/cresvsin/clinicasinaisvitais.com/sinais/model/Mail/Mail/smtp.php:366
+Stack trace:
+#0 /home/cresvsin/clinicasinaisvitais.com/sinais/model/Mail/Mail/smtp.php(271): Mail_smtp->getSMTPObject()
+#1 /home/cresvsin/clinicasinaisvitais.com/sinais/model/Mail/Mail/smtp.php(258): Mail_smtp->send_or_fail('', Array, 'Has sido contac...')
+#2 /home/cresvsin/clinicasinaisvitais.com/sinais/model/contact.php(55): Mail_smtp->send('', Array, 'Has sido contac...')
+#3 {main}
+  thrown in /home/cresvsin/clinicasinaisvitais.com/sinais/model/Mail/Mail/smtp.php on line 366
+[01-Aug-2019 15:03:22 UTC] PHP Warning:  include_once(Net/SMTP.php): failed to open stream: No such file or directory in /home/cresvsin/clinicasinaisvitais.com/sinais/model/Mail/Mail/smtp.php on line 365
+[01-Aug-2019 15:03:22 UTC] PHP Warning:  include_once(): Failed opening 'Net/SMTP.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/cresvsin/clinicasinaisvitais.com/sinais/model/Mail/Mail/smtp.php on line 365
+[01-Aug-2019 15:03:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Net_SMTP' not found in /home/cresvsin/clinicasinaisvitais.com/sinais/model/Mail/Mail/smtp.php:366
+Stack trace:
+#0 /home/cresvsin/clinicasinaisvitais.com/sinais/model/Mail/Mail/smtp.php(271): Mail_smtp->getSMTPObject()
+#1 /home/cresvsin/clinicasinaisvitais.com/sinais/model/Mail/Mail/smtp.php(258): Mail_smtp->send_or_fail('', Array, 'Has sido contac...')
+#2 /home/cresvsin/clinicasinaisvitais.com/sinais/model/contact.php(55): Mail_smtp->send('', Array, 'Has sido contac...')
+#3 {main}
+  thrown in /home/cresvsin/clinicasinaisvitais.com/sinais/model/Mail/Mail/smtp.php on line 366
+[01-Aug-2019 15:03:40 UTC] PHP Warning:  include_once(Net/SMTP.php): failed to open stream: No such file or directory in /home/cresvsin/clinicasinaisvitais.com/sinais/model/Mail/Mail/smtp.php on line 365
+[01-Aug-2019 15:03:40 UTC] PHP Warning:  include_once(): Failed opening 'Net/SMTP.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/cresvsin/clinicasinaisvitais.com/sinais/model/Mail/Mail/smtp.php on line 365
+[01-Aug-2019 15:03:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Net_SMTP' not found in /home/cresvsin/clinicasinaisvitais.com/sinais/model/Mail/Mail/smtp.php:366
+Stack trace:
+#0 /home/cresvsin/clinicasinaisvitais.com/sinais/model/Mail/Mail/smtp.php(271): Mail_smtp->getSMTPObject()
+#1 /home/cresvsin/clinicasinaisvitais.com/sinais/model/Mail/Mail/smtp.php(258): Mail_smtp->send_or_fail('', Array, 'Has sido contac...')
+#2 /home/cresvsin/clinicasinaisvitais.com/sinais/model/contact.php(55): Mail_smtp->send('', Array, 'Has sido contac...')
+#3 {main}
+  thrown in /home/cresvsin/clinicasinaisvitais.com/sinais/model/Mail/Mail/smtp.php on line 366
+[01-Aug-2019 15:03:42 UTC] PHP Warning:  include_once(Net/SMTP.php): failed to open stream: No such file or directory in /home/cresvsin/clinicasinaisvitais.com/sinais/model/Mail/Mail/smtp.php on line 365
+[01-Aug-2019 15:03:42 UTC] PHP Warning:  include_once(): Failed opening 'Net/SMTP.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/cresvsin/clinicasinaisvitais.com/sinais/model/Mail/Mail/smtp.php on line 365
+[01-Aug-2019 15:03:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Net_SMTP' not found in /home/cresvsin/clinicasinaisvitais.com/sinais/model/Mail/Mail/smtp.php:366
+Stack trace:
+#0 /home/cresvsin/clinicasinaisvitais.com/sinais/model/Mail/Mail/smtp.php(271): Mail_smtp->getSMTPObject()
+#1 /home/cresvsin/clinicasinaisvitais.com/sinais/model/Mail/Mail/smtp.php(258): Mail_smtp->send_or_fail('', Array, 'Has sido contac...')
+#2 /home/cresvsin/clinicasinaisvitais.com/sinais/model/contact.php(55): Mail_smtp->send('', Array, 'Has sido contac...')
+#3 {main}
+  thrown in /home/cresvsin/clinicasinaisvitais.com/sinais/model/Mail/Mail/smtp.php on line 366
+[01-Aug-2019 15:03:43 UTC] PHP Warning:  include_once(Net/SMTP.php): failed to open stream: No such file or directory in /home/cresvsin/clinicasinaisvitais.com/sinais/model/Mail/Mail/smtp.php on line 365
+[01-Aug-2019 15:03:43 UTC] PHP Warning:  include_once(): Failed opening 'Net/SMTP.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/cresvsin/clinicasinaisvitais.com/sinais/model/Mail/Mail/smtp.php on line 365
+[01-Aug-2019 15:03:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Net_SMTP' not found in /home/cresvsin/clinicasinaisvitais.com/sinais/model/Mail/Mail/smtp.php:366
+Stack trace:
+#0 /home/cresvsin/clinicasinaisvitais.com/sinais/model/Mail/Mail/smtp.php(271): Mail_smtp->getSMTPObject()
+#1 /home/cresvsin/clinicasinaisvitais.com/sinais/model/Mail/Mail/smtp.php(258): Mail_smtp->send_or_fail('', Array, 'Has sido contac...')
+#2 /home/cresvsin/clinicasinaisvitais.com/sinais/model/contact.php(55): Mail_smtp->send('', Array, 'Has sido contac...')
+#3 {main}
+  thrown in /home/cresvsin/clinicasinaisvitais.com/sinais/model/Mail/Mail/smtp.php on line 366
+[01-Aug-2019 15:03:43 UTC] PHP Warning:  include_once(Net/SMTP.php): failed to open stream: No such file or directory in /home/cresvsin/clinicasinaisvitais.com/sinais/model/Mail/Mail/smtp.php on line 365
+[01-Aug-2019 15:03:43 UTC] PHP Warning:  include_once(): Failed opening 'Net/SMTP.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/cresvsin/clinicasinaisvitais.com/sinais/model/Mail/Mail/smtp.php on line 365
+[01-Aug-2019 15:03:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Net_SMTP' not found in /home/cresvsin/clinicasinaisvitais.com/sinais/model/Mail/Mail/smtp.php:366
+Stack trace:
+#0 /home/cresvsin/clinicasinaisvitais.com/sinais/model/Mail/Mail/smtp.php(271): Mail_smtp->getSMTPObject()
+#1 /home/cresvsin/clinicasinaisvitais.com/sinais/model/Mail/Mail/smtp.php(258): Mail_smtp->send_or_fail('', Array, 'Has sido contac...')
+#2 /home/cresvsin/clinicasinaisvitais.com/sinais/model/contact.php(55): Mail_smtp->send('', Array, 'Has sido contac...')
+#3 {main}
+  thrown in /home/cresvsin/clinicasinaisvitais.com/sinais/model/Mail/Mail/smtp.php on line 366
+[01-Aug-2019 15:03:47 UTC] PHP Warning:  include_once(Net/SMTP.php): failed to open stream: No such file or directory in /home/cresvsin/clinicasinaisvitais.com/sinais/model/Mail/Mail/smtp.php on line 365
+[01-Aug-2019 15:03:47 UTC] PHP Warning:  include_once(): Failed opening 'Net/SMTP.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/cresvsin/clinicasinaisvitais.com/sinais/model/Mail/Mail/smtp.php on line 365
+[01-Aug-2019 15:03:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Net_SMTP' not found in /home/cresvsin/clinicasinaisvitais.com/sinais/model/Mail/Mail/smtp.php:366
+Stack trace:
+#0 /home/cresvsin/clinicasinaisvitais.com/sinais/model/Mail/Mail/smtp.php(271): Mail_smtp->getSMTPObject()
+#1 /home/cresvsin/clinicasinaisvitais.com/sinais/model/Mail/Mail/smtp.php(258): Mail_smtp->send_or_fail('', Array, 'Has sido contac...')
+#2 /home/cresvsin/clinicasinaisvitais.com/sinais/model/contact.php(55): Mail_smtp->send('', Array, 'Has sido contac...')
+#3 {main}
+  thrown in /home/cresvsin/clinicasinaisvitais.com/sinais/model/Mail/Mail/smtp.php on line 366

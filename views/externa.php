@@ -25,11 +25,19 @@ include './include/header.php';?>
 </section>
 <div class="container">
   <div class="row"> 
-    <div class="col-md-12 espacios text-justify">   
+    <div class="col-md-4 col-sm-12 espacios text-justify">   
         <p>En el área   de consulta externa ofrecemos atención en diferentes especialidades como Cirugía General, Cirugía Neurológica, Dermatología, ginecobstetricia, Medicina Interna, Medicina General, Odontología General, Oftalmología, Optometría, Ortopedia y Traumatología, Pediatría, Psicología, Urología, Cirugía Plástica.</p>
 
         <h3>Odontología</h3>
             <p>Nos hemos compenetrado cada vez mas con las necesidades de la salud integral odontológica como objetivo primordial para el bienestar y satisfacción de nuestros pacientes y la comunidad.  Como resultado de esta hemos creado un servicio odontológico integral.</p>
+    </div>
+
+    <div class="col-md-4 col-sm-12 espacios text-justify">   
+      <img src="./src/images/blog/externa_1.jpg" alt="Consulta externa<" class="img-fluid img-thumbnail">
+    </div>
+
+    <div class="col-md-4 col-sm-12 espacios text-justify">   
+        <img src="./src/images/blog/externa_2.jpg" alt="Consulta externa<" class="img-fluid img-thumbnail">
     </div>
   </div>
 </div>

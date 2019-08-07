@@ -14,7 +14,7 @@
                         data-speed="700" 
                         data-start="1700" 
                         data-easing="easeOutBack"> 
-						<span>Modernas y </span> <br/>
+						<span>Modernas &nbsp;y </span> <br/>
             <span>confortables</span><br/>
             <span>instalaciones en</span><br/>
             <span>Bosconia, Cesar</span>
@@ -44,7 +44,7 @@
           <!-- Layers -->           
           <!-- Layer 1 -->
           <div class="caption sft revolution-starhotel bigtext"  
-                   data-x="-20" 
+                   data-x="-10" 
                         data-y="70" 
                         data-speed="700" 
                         data-start="1700" 
@@ -84,7 +84,7 @@
                         data-easing="easeOutBack"> 
 						<span>Brindamos </span><br/>
             <span>información</span><br/>
-            <span>clara, honesta y </span><br/>
+            <span>clara, honesta &nbsp;y</span><br/>
             <span>con respeto</span></div>
           <!-- Layer 2 -->
           <div class="caption sft revolution-starhotel smalltext"  

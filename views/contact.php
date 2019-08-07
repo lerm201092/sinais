@@ -32,26 +32,34 @@ include './include/header.php';?>
         <!-- Panel -->
         <div class="panel panel-default text-center">
           <div class="panel-heading">
-            <div class="panel-title"><i class="fa fa-star"></i> <strong>Contacto</strong></div>
+            <div class="panel-title"><i class="fa fa-star"></i> <strong>Referencia - contra referencia</strong></div>
           </div>
           <div class="panel-body">
-            <p><b>Referencia - contra referencia</b></p>
 
             <abbr title="Phone">Tel:</abbr>(5) 578 1068 EXT: 127<br/>
             <abbr title="Cell">Cel:</abbr>315 865 2435<br/>
-            <abbr title="Email">Email:</abbr> <a href="#">referenciaclinicasinaisvitais@gmail.com</a><br/><br/>
+            <abbr title="Email">Email:</abbr> <a href="#">referenciaclinicasinaisvitais@gmail.com</a>
+          </div>
+        </div>
 
-            <p><b>Admisiones</b></p>
-
+        <div class="panel panel-default text-center">
+          <div class="panel-heading">
+            <div class="panel-title"><i class="fa fa-star"></i> <strong>Admisiones</strong></div>
+          </div>
+          <div class="panel-body">
             <abbr title="Phone">Tel:</abbr>(5) 578 1068 EXT: 113<br>
-            <abbr title="Email">Email:</abbr> <a href="#">admisiones@clinicasinaisvitais.com</a><br/><br/>
+            <abbr title="Email">Email:</abbr> <a href="#">admisiones@clinicasinaisvitais.com</a>
+          </div>
+        </div>
 
-            <p><b>Consulta externa</b></p>
-
+        <div class="panel panel-default text-center">
+          <div class="panel-heading">
+            <div class="panel-title"><i class="fa fa-star"></i> <strong>Consulta externa</strong></div>
+          </div>
+          <div class="panel-body">
             <abbr title="Phone">Tel:</abbr>(5) 578 1068 EXT: 111 - 114 - 118<br>
             <abbr title="Cell">Cel:</abbr>317 638 1535<br>
             <abbr title="Email">Email:</abbr> <a href="#">consultaexterna@clinicasinaisvitais.com</a><br>
-
           </div>
         </div>
         <!-- GMap -->
@@ -107,21 +115,6 @@ include './include/header.php';?>
     </section>
   </div>
 </div>
-
-<!-- Call To Action -->
-<section id="call-to-action" class="mt100">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-8 col-sm-8 col-xs-12">
-        <h2>|This is a Call to Action that you can use for all purposes!</h2>
-      </div>
-      <div class="col-md-4 col-sm-4 col-xs-12">
-        <a href="elements.html" class="btn btn-default btn-lg pull-right">More features</a>
-      </div>
-    </div>
-  </div>
-</section>
-
 
 <?php
 include './include/footer.php';

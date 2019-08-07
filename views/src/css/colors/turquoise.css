@@ -32,7 +32,7 @@ header, .navbar-nav .dropdown-menu, .blog-author img, .comment .avatar img, asid
 	background-color: rgba(90, 186, 198, 0.05);
 }
 .parallax-effect .color-overlay {
-	background-color: rgba(90, 186, 198, 0.8);
+	background-color:#45a496;
 }
 /* Header
 -------------------------------------------------- */
@@ -63,4 +63,16 @@ header, .navbar-nav .dropdown-menu, .blog-author img, .comment .avatar img, asid
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary {
 	background-color: #64cedb;
 	border-color: #35929e;
+}
+
+.secon{
+	background: #45a496 !important;
+}
+
+.tres{
+	background: #275b53;
+}
+
+.footer-bottom{
+background: #275b53 !important;
 }

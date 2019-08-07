@@ -25,12 +25,24 @@ include './include/header.php';?>
 </section>
 <div class="container">
   <div class="row"> 
-    <div class="col-md-12 espacios text-justify">
-        <p>La Clínica Sinais Viatis cuenta con un área de cirugía que presta servicios de alta complejidad con base en la normatividad vigente. Cirugía tiene  3 quirófanos totalmente equipados los cuales se encuentran distribuidos en área ginecológica y área general y un espacio de recuperación. En cirugía existe un equipo idóneo, competente y experto de médicos cirujanos,  anestesiólogos , profesionales de instrumentación  apoyados en personal calificado de soporte</p>
+    <div class="col-md-4 col-sm-12 espacios text-justify">
+        <p>La Clínica Sinais Viatis cuenta con un área de cirugía que presta servicios de alta complejidad con base en la normatividad vigente. Cirugía tiene  3 quirófanos totalmente equipados los cuales se encuentran distribuidos en área ginecológica y área general y un espacio de recuperación. En cirugía existe un equipo idóneo, competente y experto de médicos cirujanos,  anestesiólogos , profesionales de instrumentación  apoyados en personal calificado de soporte</p>        
+    </div>
 
-        <p><b>En esta área se realizan procedimientos quirúrgicos tales como:</b></p>
+    <div class="col-md-4 col-sm-12 espacios text-justify">   
+      <img src="./src/images/blog/cirugias_1.jpg" alt="Cirugia" class="img-fluid img-thumbnail">
+    </div>
+
+    <div class="col-md-4 col-sm-12 espacios text-justify">   
+      <img src="./src/images/blog/cirugias_2.jpg" alt="Cirugia" class="img-fluid img-thumbnail">
+    </div>
+  </div> <br>
+
+  <div class="row"> 
+    <div class="col-md-12 col-sm-12 espacios text-justify">
+      <p><b>En esta área se realizan procedimientos quirúrgicos tales como:</b></p>
         <table class="table table-striped mt30">
-            <tbody>
+          <tbody>
             <tr>
                 <td><i class="fa fa-check-circle"></i> Cirugía neurológica</td>
                 <td><i class="fa fa-check-circle"></i> Cirugía de tórax</td>
@@ -47,12 +59,16 @@ include './include/header.php';?>
                 <td><i class="fa fa-check-circle"></i> Otras</td>
             </tr>
            
-            </tbody>
+          </tbody>
         </table>
-
     </div>
+
   </div>
 </div>
+
+
+
+
 
 <?php
 include './include/footer.php';

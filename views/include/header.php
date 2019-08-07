@@ -55,8 +55,8 @@
     <div class="row">
       <div class="col-xs-6">
         <div class="th-text pull-left">
-          <div class="th-item"> <a href="#"><i class="fa fa-phone"></i> 578 1068 EXT: 127</a> </div>
-          <div class="th-item"> <a href="#"><i class="fa fa-envelope"></i> referenciaclinicasinaisvitais@gmail.com</a></div>
+          <div class="th-item"> <a href="#"><i class="fa fa-phone"></i> +5 578 1068</a> </div>
+          <div class="th-item"> <a href="#"><i class="fa fa-envelope"></i> marketing@clinicasinaisvitais.com</a></div>
         </div>
       </div>
       <div class="col-xs-6">
@@ -73,7 +73,7 @@
             </div> -->
           </div>
           <div class="th-item">
-            <div class="social-icons"> <a href="https://www.facebook.com/Cl%C3%ADnica-Sinais-Vitais-433606847245211/?modal=admin_todo_tour" target="_blank"><i class="fa fa-facebook"></i></a> <a href="./src/#"><i class="fa fa-twitter"></i></a> <a href="./src/#"><i class="fa fa-youtube-play"></i></a> </div>
+            <div class="social-icons"> <a href="https://web.facebook.com/SinaisVitaisOficial?_rdc=1&_rdr" target="_blank"><i class="fa fa-facebook"></i></a> <a target="_blank" href="https://www.youtube.com/channel/UCFxslsOyjVMWhwF95XcwNug/featured?disable_polymer=1" ><i class="fa fa-youtube-play"></i></a> </div>
           </div>
         </div>
       </div>
@@ -94,11 +94,7 @@
         </a> </div>
       <div id="navbar-collapse-grid" class="navbar-collapse collapse">
         <ul id="menuMovil" class="nav navbar-nav">
-		      <li class="dropdown" id="li_1"> <a href="./somos.php" data-toggle="dropdown" class="dropdown-toggle js-activated"><i class="fa fa-users"></i> Nosotros<b class="caret"></b></a>
-            <ul class="dropdown-menu">
-              <li><a href="./somos.php">Quiénes somos</a></li>
-              <!-- <li><a href="./room-detail.html">Trabaje con nosotros</a></li> -->
-            </ul>
+          <li> <a href="./somos.php"><i class="fa fa-users"></i> Nosotros</a></li>
           </li>
           <li class="dropdown"> <a href="./src/servicios.php" data-toggle="dropdown" class="dropdown-toggle js-activated"><i class="fa fa-stethoscope"></i> Servicios<b class="caret"></b></a>
             <ul class="dropdown-menu">
@@ -108,6 +104,7 @@
               <li><a href="./apoyo.php">Apoyo diagnóstico y terapéutico</a></li>
               <li><a href="./externa.php">Consulta externa</a></li>
               <li><a href="./hospitalizacion.php">Hospitalización</a></li> 
+              <li><a href="./translado.php">Traslado</a></li>
             </ul>
           </li>
           <li class="dropdown"> <a href="./src/#" data-toggle="dropdown" class="dropdown-toggle js-activated"><i class="fa fa-star-o "></i> Especialidades<b class="caret"></b></a>
@@ -124,18 +121,15 @@
               <li><a href="./spi.php">Psicología</a></li>
             </ul>
           </li>
-          <li> <a href="./src/gallery.html"><i class="fa fa-heart-o"></i> Convenios</a></li>
-          <li> <a href="https://clinicasinaisvitais.blogspot.com/" target="_blank"><i class="fa fa-edit"></i> Blog</a></li>
-          <li class="dropdown"> <a href="./src/#" data-toggle="dropdown" class="dropdown-toggle js-activated"><i class="fa fa-cog"></i> Administración<b class="caret"></b></a>
-            <ul class="dropdown-menu">
-              <li><a href="./contact-01.html">Contact 1</a></li>
-              <li><a href="./contact-02.html">Contact 2</a></li>
-            </ul>
-          </li>
+          <li> <a href="./convenios.php"><i class="fa fa-heart-o"></i> Convenios</a></li>
+          <li> <a href="./blog.php" target="_blank"><i class="fa fa-edit"></i> Blog</a></li>
+          <li> <a href="./administracion.php"><i class="fa fa-cog"></i> Administración</a></li>
           <li class="dropdown"> <a href="./src/#" data-toggle="dropdown" class="dropdown-toggle js-activated"><i class="fa fa-user"></i> Pacientes<b class="caret"></b></a>
             <ul class="dropdown-menu">
-              <li><a href="#">Requisitos</a></li>
-              <li><a href=".//manual.php">Manual del paciente</a></li>
+              <li><a href="./requisitos.php">Requisitos</a></li>
+              <li><a href="./manual.php">Manual del paciente</a></li>
+              <li><a href="./normas.php">Normas para la estancia</a></li>
+              <li><a href="./src/pdf/copago.pdf" target="_blank">Copagos</a></li>
             </ul>
           </li>
           <li> <a href="./contact.php"><i class="fa fa-envelope-o"></i> Contáctenos</a></li>
